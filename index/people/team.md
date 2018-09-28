@@ -1,4 +1,4 @@
-### The Team
+# The Team
 
 The extremely cool people behind Verge.
 
