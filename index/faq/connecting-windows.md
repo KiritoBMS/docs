@@ -1,6 +1,7 @@
 # How to connect to Verge
 
 If you are using Linux, see [here](/index/faq/connecting-linux.md)
+
 [Video tutorial](https://youtu.be/LM5qnegKSrs)
 
 ### Getting started
