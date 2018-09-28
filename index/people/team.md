@@ -35,5 +35,5 @@ User Groups
 [flag_CN]: /shared/flag/CN.gif "China"
 [flag_JP]: /shared/flag/JP.gif "Japan"
 [flag_GB]: /shared/flag/GB.gif "United Kingdom"
-[flag_CA]: /shared/flag/CN.gif "Canada"
-[flag_PL]: /shared/flag/CN.gif "Poland"
+[flag_CA]: /shared/flag/CA.gif "Canada"
+[flag_PL]: /shared/flag/PL.gif "Poland"
