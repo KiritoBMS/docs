@@ -1,40 +1,30 @@
 # How to connect to Verge
 
-### IMPORTANT: If you are using Windows, see [here](/index/FAQ/connecting.md)
+If you are using Windows, see [here](/index/faq/connecting-windows.md)
+[Video tutorial](https://youtu.be/CoPyJt2QTHc)
 
-[Video Tutorial](https://youtu.be/CoPyJt2QTHc)
+### Modifying the `hosts` file
 
-## Modifying the hosts file
+- Open `/etc/hosts` with your favourite editor **as root/with sudo**
+- Paste the following at the bottom
 
-For this, you will need to modify your hosts file. To do so, run nano /etc/hosts as root/with sudo.
-
-When you’ve got it open, paste the following at the bottom:
-
+```
 163.172.71.251 osu.ppy.sh a.ppy.sh b.ppy.sh c.ppy.sh c1.ppy.sh s.ppy.sh
 51.15.222.176 bm6.ppy.sh
+```
 
-CTRL+X and then Enter to save the file.
+- Save the file
 
 ## Installing the certificate
 
-1. Download the certificate.
+- Download certificate file from [here](https://example.com/)
+- Open Internet Explorer configuration by running Wine Control
+- Double click the Internet Settings icon, navigate to the Content tab, then click on "Certificates" button
+- Click on "Import", then click on "Next"
+- Click on "Browse" then select the downloaded file
+- Click on "Next"
+- Select "Place all certificates in the following store" and then click on "Browse"
+- Select "Trusted Root Certification Authorities" from list and click on "Ok"
+- Click on "Next" until you reach the end of the process
 
-2. Open the Internet Explorer configuration by running wine control.
-
-3. Double click the Internet Settings icon, navigate to the Content tab, then click the Certificates… button.
-
-4. Click on Import, then Next.
-
-5. Click Browse… then select the Verge certificate.
-
-6. Click Next.
-
-7. Select Place all certificates in the following store, and click Browse.
-
-8. Select Trusted Root Certification Authorities, and click Ok.
-
-9. Click Next, Finish.
-
-10. You should get a message saying The import was successful.
-
-## After that is done, you can start the client up, and log in with your Verge credentials.
+### After that is done, you can start the client up, and log in with your Verge credentials.

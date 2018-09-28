@@ -1,0 +1,3 @@
+# Chat Moderator
+
+TODO: Some info about Chat Moderators...
