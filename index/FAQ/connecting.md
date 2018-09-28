@@ -2,7 +2,7 @@
 
 ### IMPORTANT: If you are using Linux, see [here](/index/FAQ/connecting-linux.md)
 
-[Video Tutorial]()
+[Video Tutorial](https://youtu.be/LM5qnegKSrs)
 
     Register an account
     Download server switcher
