@@ -1,0 +1,3 @@
+# Community Manager
+
+TODO: Some info about Community Managers...

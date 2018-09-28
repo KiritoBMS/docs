@@ -1,0 +1,3 @@
+# BAT (Beatmap Approval Team member)
+
+TODO: Some info about BATs...
