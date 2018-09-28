@@ -1,0 +1,3 @@
+[submodule "email-templates"]
+	path = email-templates
+	url = https://github.com/osuverge/email-templates
