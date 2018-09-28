@@ -1,6 +1,7 @@
 # How to connect to Verge
 
 If you are using Windows, see [here](/index/faq/connecting-windows.md)
+
 [Video tutorial](https://youtu.be/CoPyJt2QTHc)
 
 ### Modifying the `hosts` file
