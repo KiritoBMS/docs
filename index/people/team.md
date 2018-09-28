@@ -14,7 +14,14 @@ Core Team
 | ![][flag_US] [Shene]() | Community Manager |
 | ![][flag_PL] [ryoki]() | Community Manager |
 
+User Groups
+----------------------
 
+| Name | Description |
+| ---- | ----------- |
+| [Chat Moderators](/index/people/chat-moderators) | Keeping Verge Healthy |
+| [Alumni](/index/people/alumni) | Former contributors that are no longer active |
+| [BAT](/index/people/BAT) | Assuring quality in ranked maps |
 
 [flag_AR]: /shared/flag/AR.gif "Poland"
 [flag_AU]: /shared/flag/AU.gif "Australia"
