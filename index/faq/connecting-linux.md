@@ -9,11 +9,16 @@ If you are using Windows, see [here](/index/faq/connecting-windows.md)
 - Open `/etc/hosts` with your favourite editor **as root/with sudo**
 - Paste the following at the bottom
 
+### IPs (Regular)
 ```
-163.172.71.251 osu.ppy.sh a.ppy.sh b.ppy.sh c.ppy.sh c1.ppy.sh s.ppy.sh
-51.15.222.176 bm6.ppy.sh
+178.62.229.191 osu.ppy.sh a.ppy.sh b.ppy.sh c.ppy.sh c1.ppy.sh s.ppy.sh
+194.135.85.107 bm6.ppy.sh
 ```
-
+### IPs (Relax)
+```
+178.62.21.61 osu.ppy.sh a.ppy.sh b.ppy.sh c.ppy.sh c1.ppy.sh s.ppy.sh
+194.135.85.107 bm6.ppy.sh
+```
 - Save the file
 
 ## Installing the certificate
